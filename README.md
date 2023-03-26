@@ -9,7 +9,7 @@ I am a beginner Python developer<img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: I want to learn a new profession and find a job.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-sstrela-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sstrela) [![strelchenko130504@gmail.com Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](strelchenko130504@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-sstrela-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sstrela) [![Gmail Badge](https://img.shields.io/badge/-strelchenko130504@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](strelchenko130504@gmail.com)
 
 ---
 
