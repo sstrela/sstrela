@@ -37,19 +37,9 @@ I am a beginner Python developer<img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### 🛠 Tools:
+### 💻 Completed courses:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 💻 Пройденные курсы:
-
-| Курсы                                                                |       Дата        |
+| Courses                                                              |       Date        |
 |----------------------------------------------------------------------|:-----------------:|
 | stepik.org/"Поколение Python": курс для начинающих                   | 06/2022 - 10/2022 |
 | stepik.org/"Поколение Python": курс для продвинутых                  | 10/2022 - 02/2023 |
