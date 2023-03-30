@@ -36,16 +36,3 @@ I am a beginner Python developer<img src="https://media.giphy.com/media/WUlplcMp
 </div>
 
 ---
-
-### 💻 Completed courses:
-
-| Courses                                                              |       Date        |
-|----------------------------------------------------------------------|:-----------------:|
-| stepik.org/"Поколение Python": курс для начинающих                   | 06/2022 - 10/2022 |
-| stepik.org/"Поколение Python": курс для продвинутых                  | 10/2022 - 02/2023 |
-| coursera.org/Programming for Everybody (Getting Started with Python) | 03/2023 - 03/2023 |
-| coursera.org/Python Data Structures                                  | 03/2023 - 03/2023 |
-| stepik.org/"Поколение Python": курс для профессионалов               | 03/2023 - xx/2023 |
-
-
----
