@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a beginner Python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Learning Python programming as a Ukrainian student, but living in Sweden due to the war tearing my home country apart. Coding has become my solace, my escape from the harsh realities of my situation. I dream of using my skills to make a difference, to contribute to a better future for all. Despite the distance and the pain, I hold on to hope and persevere.
+I am a beginner Python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Learning Python programming as a Ukrainian student, but living in Ireland due to the war tearing my home country apart. Coding has become my solace, my escape from the harsh realities of my situation. I dream of using my skills to make a difference, to contribute to a better future for all. Despite the distance and the pain, I hold on to hope and persevere.
 
 - :zap: I want to learn a new profession and find a job.
 
